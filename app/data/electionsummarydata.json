@@ -1,0 +1,211 @@
+{
+  "0": {
+    "total_candidates": 3055,
+    "candidates_with_declared_criminal_cases": 983,
+    "candidates_with_declared_serious_criminal_cases": 558,
+    "crorepati_candidates": 262,
+    "candidates_who_are_gradudate_or_above": 1277,
+    "candidates_who_have_not_declared_pan": 2082,
+    "total_women_candidates": 209
+  },
+  "1": {
+    "total_candidates": 241,
+    "candidates_with_declared_criminal_cases": 141,
+    "candidates_with_declared_serious_criminal_cases": 85,
+    "crorepati_candidates": 47,
+    "candidates_who_are_gradudate_or_above": 132,
+    "candidates_who_have_not_declared_pan": 76,
+    "total_women_candidates": 31
+  },
+  "2": [
+    [
+      "BJP",
+      59,
+      51
+    ],
+    [
+      "CPI",
+      21,
+      1
+    ],
+    [
+      "INC",
+      90,
+      3
+    ],
+    [
+      "IND",
+      263,
+      4
+    ],
+    [
+      "JD(U)",
+      71,
+      53
+    ],
+    [
+      "LJP",
+      41,
+      3
+    ],
+    [
+      "RJD",
+      86,
+      12
+    ]
+  ],
+  "3": [
+    [
+      "10th Pass",
+      25
+    ],
+    [
+      "12th Pass",
+      47
+    ],
+    [
+      "5th Pass",
+      4
+    ],
+    [
+      "8th Pass",
+      6
+    ],
+    [
+      "Doctorate",
+      21
+    ],
+    [
+      "Graduate",
+      113
+    ],
+    [
+      "Literate",
+      8
+    ],
+    [
+      "Not Given",
+      3
+    ],
+    [
+      "Post Graduate",
+      40
+    ]
+  ],
+  "32": [
+    [
+      "BJP",
+      90,
+      58,
+      64,
+      29,
+      32
+    ],
+    [
+      "CPI",
+      1,
+      1,
+      100,
+      0,
+      0
+    ],
+    [
+      "INC",
+      4,
+      3,
+      75,
+      2,
+      50
+    ],
+    [
+      "IND",
+      6,
+      5,
+      83,
+      2,
+      33
+    ],
+    [
+      "JD(U)",
+      114,
+      58,
+      51,
+      43,
+      38
+    ],
+    [
+      "LJP",
+      3,
+      3,
+      100,
+      2,
+      67
+    ],
+    [
+      "RJD",
+      22,
+      13,
+      59,
+      7,
+      32
+    ],
+    [
+      "JMM",
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Total",
+      241,
+      141,
+      59,
+      85,
+      35
+    ]
+  ],
+  "33": [
+    [
+      "BJP",
+      90,
+      "Rs 63,60,702"
+    ],
+    [
+      "CPI",
+      1,
+      "Rs 11,91,261"
+    ],
+    [
+      "INC",
+      4,
+      "Rs 93,03,454"
+    ],
+    [
+      "IND",
+      6,
+      "Rs 92,27,645"
+    ],
+    [
+      "JD(U)",
+      114,
+      "Rs 84,45,665"
+    ],
+    [
+      "LJP",
+      3,
+      "Rs 39,66,326 "
+    ],
+    [
+      "RJD",
+      22,
+      "Rs 1,33,20,229"
+    ],
+    [
+      "JMM",
+      1,
+      "Rs 11,91,261"
+    ]
+  ]
+}

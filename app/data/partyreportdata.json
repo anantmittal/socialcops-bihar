@@ -1,0 +1,48 @@
+{
+  "0": {
+    "national": 6,
+    "state": 3,
+    "other_states": 9,
+    "unrecognized": 72
+  },
+  "1": {
+    "National Parties": "Parties",
+    "State Parties": "Parties",
+    "Bharatiya Janata Party": "National Parties",
+    "Bahujan Samaj Party": "National Parties",
+    "Communist Party of India": "National Parties",
+    "Communist Party of India (Marxist)": "National Parties",
+    "Indian National Congress": "National Parties",
+    "Nationalist Congress Party": "National Parties",
+    "Janata Dal (United)": "State Parties",
+    "Lok Jan Shakti Party": "State Parties",
+    "Rashtriya Janata Dal": "State Parties"
+  },
+  "2": {
+    "2010": {
+      "Bharatiya Janata Party (BJP)": 91,
+      "Communist Party of India (CPI)": 1,
+      "Indian National Congress (INC)": 4,
+      "Janata Dal (United), JD(U)": 115,
+      "Lok Jan Shakti Party (LJP)": 3,
+      "Rashtriya Janata Dal (RJD)": 22,
+      "Jharkhand Mukti Morcha (JMM)": 1,
+      "Independent (IND)": 6
+    },
+    "2005": {
+      "Bharatiya Janata Party (BJP)": 55,
+      "Bahujan Samaj Party (BSP)": 4,
+      "Communist Party of India (CPI)": 3,
+      "Communist Party of India (Marxist)": 1,
+      "Indian National Congress (INC)": 9,
+      "Nationalist Congress Party (Ncp)": 1,
+      "Communist Party of India (Marxist-Lenninist) (Liberation), CPI(Ml)(L)": 5,
+      "Janata Dal (United), JD(U)": 88,
+      "Lok Jan Shakti Party (LJP)": 10,
+      "Rashtriya Janata Dal (RJD)": 54,
+      "Samajwadi Party (SP)": 2,
+      "Akhil Jan Vikas Dal (AJVD)": 1,
+      "Independent (IND)": 10
+    }
+  }
+}

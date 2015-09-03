@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/data/constituencies.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/data/constituencypie.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/data/constituencyreportdata.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/data/districtreportdata.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/data/electionsummarydata.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/data/partyreportdata.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/data/test.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/data/votersreportdata.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/CensusReportCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/DashboardCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/DistrictReportCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/ElectionSummaryCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/PartiesReportCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/controllers/VotersSummaryCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/css/main.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/services/getConstituency.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/services/getConstituencyData.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/services/getConstituencyPie.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/services/getDistrictData.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/services/getELectionSummaryData.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/services/getPartyData.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/scripts/services/getVotersData.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/styles/main.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/styles/pages/dashboard.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard/censusreport.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard/districtreport.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard/electionsummary.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard/overview.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard/partiesreport.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/dashboard/voterssummary.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bower.json" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<div class="dashboard-page">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-3 col-md-2 sidebar">
+
+                <div class="text-center">
+                    <h2 class="brand">socialcops</h2>
+                    <img src="images/flat-avatar.png" class="user-avatar"/><br/>
+                </div>
+
+                <ul class="nav nav-sidebar">
+                    <li ng-class="{active: $state.includes('overview')}"><a ui-sref="overview">Overview <span
+                        class="sr-only">(current)</span></a></li>
+                    <li ng-class="{active: $state.includes('censusreport')}"><a ui-sref="censusreport">Census Report</a></li>
+                    <li ng-class="{active: $state.includes('partiesreport')}"><a ui-sref="partiesreport">Party-wise Report</a></li>
+                    <li ng-class="{active: $state.includes('districtreport')}"><a ui-sref="districtreport">Constituencies Report</a></li>
+                    <li ng-class="{active: $state.includes('electionsummary')}"><a ui-sref="electionsummary">Election Summary</a></li>
+                    <li ng-class="{active: $state.includes('voterssummary')}"><a ui-sref="voterssummary">Voters Summary</a></li>
+                </ul>
+
+            </div>
+            <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main" ui-view>
+            </div>
+        </div>
+    </div>
+</div>

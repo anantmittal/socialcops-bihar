@@ -1,0 +1,24 @@
+{
+    "0": {
+        "number_of_electors": {
+            "total": 55120656,
+            "male": 29655910,
+            "female": 25464746
+        },
+        "number_of_electors_who_voted": {
+            "total": 29034705,
+            "male": 15159530,
+            "female": 13875175
+        },
+      "male_polling_percentage":"51.12%",
+      "female_polling_percentage":"54.49%",
+      "total_polling_percentage":"52.67%"
+    },
+    "1": {
+      "number_of_electors": {
+        "total": 65867929,
+        "male": 35209890,
+        "female": 30655765
+      }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "0": {
+        "2001": {
+            "actual_population": 82998509,
+            "male": 43243795,
+            "female": 39754714
+        },
+        "2011": {
+            "actual_population": 104099452,
+            "male": 54278157,
+            "female": 49821295
+        }
+    },
+    "1": {
+        "2001": {
+            "population_growth": 28.43
+        },
+        "2011": {
+            "population_growth": 25.42
+        }
+    },
+    "2": {
+        "2001": {
+            "percentage_of_total_population": 8.07
+        },
+        "2011": {
+            "percentage_of_total_population": 8.6
+        }
+    },
+    "3": {
+        "2001": {
+            "sex_ratio": 919
+        },
+        "2011": {
+            "sex_ratio": 918
+        }
+    }
+}
